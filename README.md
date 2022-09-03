@@ -3,6 +3,7 @@
 A new Flutter Social Media Application.
 
 ![In a single picture](https://raw.githubusercontent.com/elhamebrahimpour/moodinger_application/master/socialmediaapp.jpg)
+![In a single picture](https://raw.githubusercontent.com/elhamebrahimpour/Flutter-Sample-Crypto-Application/master/crypto_app.jpg)
 
 
 
