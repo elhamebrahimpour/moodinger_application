@@ -1,6 +1,10 @@
 # instagram_flutter
 
-A new Flutter project.
+A new Flutter Social Media Application.
+
+![In a single picture](https://raw.githubusercontent.com/elhamebrahimpour/moodinger_application/master/socialmediaapp.jpg)
+![In a single picture](https://raw.githubusercontent.com/elhamebrahimpour/moodinger_application/master/splash.png)
+
 
 ## Getting Started
 
