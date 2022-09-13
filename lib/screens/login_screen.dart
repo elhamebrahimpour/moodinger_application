@@ -107,11 +107,11 @@ class _LoginScreenState extends State<LoginScreen> {
         SizedBox(
           height: 34,
         ),
-        _getTextField('Email', 'example@gmail.com', _emailFocusNode),
+        _getTextField('Email', 'example@gmail.com', _emailFocusNode, false),
         SizedBox(
           height: 32,
         ),
-        _getTextField('Password', '************', _passwordFocusNode),
+        _getTextField('Password', '************', _passwordFocusNode, true),
         SizedBox(
           height: 32,
         ),
@@ -145,12 +145,14 @@ class _LoginScreenState extends State<LoginScreen> {
     );
   }
 
-  Widget _getTextField(String str1, String str2, FocusNode focusNode) {
+  Widget _getTextField(
+      String str1, String str2, FocusNode focusNode, bool obsecureText) {
     return Padding(
       padding: const EdgeInsets.symmetric(horizontal: 44),
       child: TextField(
         style: TextStyle(color: lightGreyColor),
         focusNode: focusNode,
+        obscureText: obsecureText,
         decoration: InputDecoration(
           contentPadding: EdgeInsets.symmetric(vertical: 15, horizontal: 15),
           enabledBorder: OutlineInputBorder(
