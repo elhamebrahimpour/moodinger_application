@@ -2,10 +2,7 @@
 
 A new Flutter Social Media Application.
 
-
-![image](https://raw.githubusercontent.com/elhamebrahimpour/moodinger_application/master/socialmediaapp.jpg)
-![In a single picture](https://raw.githubusercontent.com/elhamebrahimpour/moodinger_application/master/splash.png)
-
+![socialmediaapp](https://user-images.githubusercontent.com/94855499/206716087-141e76b4-236a-4b2c-95f0-8dde8ec3a35a.jpg)
 
 ## Getting Started
 
